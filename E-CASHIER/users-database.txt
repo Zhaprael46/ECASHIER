@@ -1,0 +1,3 @@
+1,nuel,123,cashier
+2,frans,321,cashier
+3,rafael,321,cashier
